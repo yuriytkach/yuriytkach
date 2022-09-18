@@ -10,6 +10,8 @@ To get a link to online stream on YouTube please do the following:
 
 Thank you in advance for your support! Слава Україні! :ukraine:
 
+![Help Ukraine](https://images.squarespace-cdn.com/content/v1/55c36c6fe4b0e4120b157100/1652212807740-GBCS4RW5Z84GJHVL0W9R/drone-fundraiser.jpg?format=300w)
+
 ## GitHub Stats
 
 [![YuriyTkach's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriytkach&theme=github_light&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
