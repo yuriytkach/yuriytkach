@@ -2,11 +2,7 @@
 
 I've joing the huge volunteering forces of Ukraine to help our Armed Forces win the war agains russian fascists. I conduct online streams on Youtube where I teach Java and it's technologies. All streams are charitable and all raised funds go to buy different equipment for Ukrainian soldiers. I announce all streams on [my Youtube channel](https://www.youtube.com/channel/UCdXqgQdGW5go6nkkBbUVSMA) and later put demonstration code here in repositories.
 
-To get a link to online stream on YouTube please do the following:
-
-- :moneybag: Make any donation to support my volunteering initiative to help Ukrainian Armed Forces by means described on [my website](https://www.yuriytkach.com/volunteer)
-- :email: Write me an [email](mailto:me@yuriytkach.com) indicating donation amount and time
-- :tv: I will reply with the link to the stream on YouTube.
+You can 📹 get access to online streams, 🤝 support me financially, and 💪 help Armed Forces of Ukraine through my volunteering activities by buying me a coffee ☕: [https://www.buymeacoffee.com/ytkach](https://www.buymeacoffee.com/ytkach)
 
 Thank you in advance for your support! Слава Україні! :ukraine:
 
